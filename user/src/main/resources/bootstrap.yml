@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        refresh-enabled: true
+        file-extension: yml

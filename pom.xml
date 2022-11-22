@@ -12,6 +12,7 @@
         <module>common</module>
         <module>user</module>
         <module>business</module>
+        <module>gateway</module>
     </modules>
 
 
